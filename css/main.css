@@ -159,6 +159,7 @@ h1, h2, h3{
 }
 
 #header-options{
+    display: flex;
     align-content: center;
 }
 
@@ -289,7 +290,7 @@ h1, h2, h3{
 /*Offers section*/
 
 #offers-bg{
-    background: #242424;
+    background: #242424;  /*blablablabla ik doe dit omdat er iets moet staan*/
 }
 
 #offers{
